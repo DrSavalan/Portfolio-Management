@@ -1,0 +1,1 @@
+Excel files are downloaded using the MetaTrader 5 Python package. Run the code on your computer while MetaTrader 5 is active to allow the latest data to be updated.
